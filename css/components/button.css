@@ -1,0 +1,15 @@
+.btn-yellow {
+  text-decoration: none;
+  background-color: #FDA200;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 15px;
+  font-weight: lighter;
+  transition: 0.5s;
+}
+
+.btn-yellow:hover {
+  color: black;
+  font-weight: bold;
+  padding: 15px 50px;
+}

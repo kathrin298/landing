@@ -1,0 +1,32 @@
+.footer {
+  background-color: #9E9992;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  padding:  0px 20px;
+}
+
+.social-icons {
+  text-align: center;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+.social-logo {
+  margin: 8px;
+  font-size: 30px;
+  color: white;
+  transition: 0.3s;
+}
+
+.social-logo:hover {
+  color: black;
+}
